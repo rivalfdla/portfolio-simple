@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;700&display=swap');
+
+body {
+                font-family: "Poppins", sans-serif;
+}
+
+.jumbtron {
+    padding-top: 5rem;
+}
+
+.progress p{
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+}
+section{
+    padding-top: 13rem;
+}
+
+header {
+    padding-top: 10px;
+}
+
+h2 {
+				font-size: 30px;
+}
